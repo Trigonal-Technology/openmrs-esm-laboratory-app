@@ -1,6 +1,6 @@
 {
   "name": "@openmrs/esm-laboratory-app",
-  "version": "1.0.0",
+  "version": "1.0.0-alpinecure",
   "license": "MPL-2.0",
   "description": "Laboratory microfrontend for OpenMRS 3.x",
   "browser": "dist/openmrs-esm-laboratory-app.js",
@@ -103,5 +103,6 @@
   "resolutions": {
     "@carbon/react": "1.14.0"
   },
-  "packageManager": "yarn@4.4.0"
+  "packageManager": "yarn@4.4.0",
+  "stableVersion": "1.0.0-alpinecure"
 }
